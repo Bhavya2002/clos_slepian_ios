@@ -10,3 +10,5 @@ configuration based on user inputs like switch type and network size.
 with high industry standards.
 
 Copyright (c) 2025 - Bhavya Bhatia
+
+![alt text](https://github.com/Bhavya2002/clos_slepian_ios/blob/31f14928f9cf0b64f0016deaa789fd0b0e49a645/Screenshot%202025-06-13%20at%201.20.29%E2%80%AFPM.png)
